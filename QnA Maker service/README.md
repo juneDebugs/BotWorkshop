@@ -28,3 +28,5 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 * Choose whether you want to enable Application Insights or not. If Application Insights is enabled, QnA Maker collects telemetry on traffic, chat logs, and errors.
 * Choose the App insights location where Application Insights resource will be deployed.
 
+5. Once all the fields are validated, you can click on **Create** to start deployment of these services in your subscription. It will take a few minutes to complete.
+

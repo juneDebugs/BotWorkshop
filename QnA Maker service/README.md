@@ -13,5 +13,6 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 ![Step3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/create-new-resource-button.png)
 
 4. In **QnA Maker**, select the appropriate tiers and regions.
+<br>
 ![Step4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/enter-qnamaker-info.png)
 

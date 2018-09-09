@@ -17,3 +17,11 @@ An easy-to-use graphical user interface enables you to create, manage, train and
 A QnA Maker provides two key services for your data:
 * **Extraction:** Structured question-answer data is extracted from semi-structured data sources like FAQs and product manuals. This extraction is done when creating the knowledge base.
 * **Matching:** Once your knowledge base has been trained and tested, you publish it. This enables an endpoint to your QnA Maker knowledge base, which you can then use in your bot or app. This endpoint accepts a user question and responds with the best question/answer match in the knowledge base, along with a confidence score for the match.
+
+# QnA Maker Architecture
+The QnA Maker stack consists of the following parts:
+1. **QnA Maker management services (control plane):** The management experience for a QnA Maker knowledge base, which includes the initial creation, updating, training, and publishing. These activities can be done through the portal or the management APIs. The management services talk to the runtime component below.
+
+2. **QnA Maker runtime (data plane):** The data and runtime are deployed in the user's Azure subscription in a region of their choosing. Customer question/answer content is stored in Azure Search, and the runtime is deployed as an App service. Optionally, you can also choose to deploy an Application Insights resource for analytics.
+![Arch](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/architecture.png)
+

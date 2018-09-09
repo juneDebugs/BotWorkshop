@@ -31,6 +31,6 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 
 5. Once all the fields are validated, you can click on **Create** to start deployment of these services in your subscription. It will take a few minutes to complete.
 
-6. Once the deployment is done, you will see the following resources created in your subscription.
+6. :tada: Once the deployment is done, you will see the following resources created in your subscription.
 ![Step5](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/resources-created.png)
 

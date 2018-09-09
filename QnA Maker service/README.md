@@ -25,9 +25,9 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 * Give a name to your App service in ```App name```.
 * By default the App service defaults to the standard (S1) tier. You can change the plan after creation. 
 * Choose the ```Website location``` where the App Service will be deployed.
-** Note: The Search Location can be different from the Website Location.
-* Choose whether you want to enable Application Insights or not. If Application Insights is enabled, QnA Maker collects telemetry on traffic, chat logs, and errors.
-* Choose the App insights location where Application Insights resource will be deployed.
+  * Note: The Search Location can be different from the Website Location.
+* Choose whether you want to enable ``` Application Insights```  or not. If ``` Application Insights```  is enabled, QnA Maker collects telemetry on traffic, chat logs, and errors.
+* Choose the ``` App Insights```  location where Application Insights resource will be deployed.
 
 5. Once all the fields are validated, you can click on **Create** to start deployment of these services in your subscription. It will take a few minutes to complete.
 

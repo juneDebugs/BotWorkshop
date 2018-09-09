@@ -16,7 +16,7 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 
 ![Step4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/enter-qnamaker-info.png)
 
-*Fill the Name with a unique name to identify this QnA Maker service. This name also identifies the QnA Maker endpoint to which your knowledge bases will be associated.
+* Fill the Name with a unique name to identify this QnA Maker service. This name also identifies the QnA Maker endpoint to which your knowledge bases will be associated.
 *Choose the Subscription in which the QnA Maker resource will be deployed.
 *Select the Management pricing tier for the QnA Maker management services (portal and management APIs). See here for details on the pricing of the SKUs.
 *Create a new Resource Group (recommended) or use an existing one in which to deploy this QnA Maker resource.

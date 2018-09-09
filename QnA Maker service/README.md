@@ -7,3 +7,4 @@ This setup deploys a few Azure resources. Together, these resources manage the k
 1. Log in to the [Azure portal](portal.azure.com).
 
 2. Click on Add new resource, and type "qna maker" in search, and select the QnA Maker resource
+![Step2](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/create-new-resource.png)

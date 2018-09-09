@@ -35,6 +35,6 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 
 15. In the menu next to Edit, select **Publish**. Then to confirm, select **Publish** on the page.
 
-16. The QnA Maker service is now successfully published! You can use the endpoint in your application or bot code.
+16. :tada: The QnA Maker service is now successfully published! You can use the endpoint in your application or bot code.
 
 

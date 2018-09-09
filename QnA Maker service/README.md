@@ -4,6 +4,6 @@ Before you can create any QnA Maker knowledge bases, you must first set up a QnA
 
 This setup deploys a few Azure resources. Together, these resources manage the knowledge base content and provide question-answering capabilities though an endpoint.
 
-* Log in to the Azure portal.
+1. Log in to the Azure portal.
 
 * Click on Add new resource, and type "qna maker" in search, and select the QnA Maker resource

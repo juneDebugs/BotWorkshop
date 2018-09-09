@@ -13,7 +13,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 
 4. After you successfully create a new QnA Maker service in Azure, return to qnamaker.ai/create. Select your QnA service from the drop-down lists in step 2. If you created a new QnA service, be sure to refresh the page.
 
-5. In step 3, name your KB **My Sample QnA KB**.
+5. In step 3, name your KB **to best reflect your sample FAQ**.
 
 6. To add content to your KB, select three types of data sources. In step 4, under **Populate your KB**, add your sample FAQ link in the URL box.
 

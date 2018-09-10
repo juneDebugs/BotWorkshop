@@ -3,5 +3,19 @@ Testing your QnA Maker knowledge base is an important part of an iterative proce
 
 ## Test answer matching
 1. Access your knowledge base by selecting its name on the **My knowledge bases** page.
-2. To access the Test slide-out panel, select **Test** in your application's top panel.
+2. To access the Test slide-out panel, select ```Test``` in your application's top panel.
 ![test1](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/test1.png)
+
+3. Enter a query in the text box and select Enter.
+4. The best-matched answer from the knowledge base is returned as the response.
+
+## Clear Test Panel
+To clear all the entered test queries and their results from the test console, select ```Start over``` at the upper-left corner of the Test panel.
+
+## Close Test Panel
+To close the Test panel, select the Test button again. While the Test panel is open, you cannot edit the Knowledge Base contents.
+
+## Inspect score
+You inspect details of the test result in the Inspect panel.
+1. With the Test slide-out panel open, select Inspect for more details on that response.
+

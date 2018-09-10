@@ -25,3 +25,9 @@ The QnA Maker stack consists of the following parts:
 2. **QnA Maker runtime (data plane):** The data and runtime are deployed in the user's Azure subscription in a region of their choosing. Customer question/answer content is stored in Azure Search, and the runtime is deployed as an App service. Optionally, you can also choose to deploy an Application Insights resource for analytics.
 ![Arch](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/architecture.png)
 
+# Azure Bot Service
+Azure Bot Service speeds up development by providing an integrated environment that’s purpose-built for bot development with the Microsoft Bot Framework connectors and BotBuilder SDKs. Developers can get started in seconds with out-of-the-box templates for scenarios including basic, form, language understanding, question and answer, and proactive bots.
+
+# Give your bot Intelligence with Cognitive Services
+Give your bot some super powers. Go beyond a great conversationalist to a bot that can recognize a user in photos, moderate content, make smart recommendations, translate language and more. Cognitive Services enable your bot to see, hear, and interpret in more human ways.
+

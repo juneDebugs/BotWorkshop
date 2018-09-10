@@ -30,6 +30,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 ![4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/4.png)
 
 11. In the upper right, select **Save and train** to save your edits and train the QnA Maker model. Edits aren't kept unless they're saved.
+![5](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/5.png)
 
 12. In the upper right, select **Test*** to test that the changes you made took effect. Enter ```Hi there``` in the box, and select **Enter**. You should see the answer you created as a response.
 

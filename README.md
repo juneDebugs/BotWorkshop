@@ -1,6 +1,9 @@
 # BotWorkshop
 This workshop is designed for developers to Build, Train and Publish a simple question and answer bot based on FAQ URLs, structured documents, product manuals or editorial content.
 
+# What is a bot?
+A bot is an app that users interact with in a conversational way using text, graphics (cards), or speech. It may be a simple question and answer dialog, or a sophisticated bot that allows people to interact with services in an intelligent manner using pattern matching, state tracking and artificial intelligence techniques well-integrated with existing business services. 
+
 # What is QnA Maker?
 QnA Maker enables you to power a question and answer service from your semi-structured content like FAQ (Frequently Asked Questions) documents or URLs and product manuals. You can build a model of questions and answers that is flexible to user queries, providing responses that you'll train a bot to use in a natural, conversational way.
 
@@ -28,6 +31,6 @@ The QnA Maker stack consists of the following parts:
 # Azure Bot Service
 Azure Bot Service speeds up development by providing an integrated environment that’s purpose-built for bot development with the Microsoft Bot Framework connectors and BotBuilder SDKs. Developers can get started in seconds with out-of-the-box templates for scenarios including basic, form, language understanding, question and answer, and proactive bots.
 
-# Give your bot Intelligence with Cognitive Services
-Give your bot some super powers. Go beyond a great conversationalist to a bot that can recognize a user in photos, moderate content, make smart recommendations, translate language and more. Cognitive Services enable your bot to see, hear, and interpret in more human ways.
+# Intelligence with Cognitive Services
+Give your bot some super powers. Go beyond a great conversationalist to a bot that can recognize a user in photos, moderate content, make smart recommendations, translate language and more. Cognitive Services enable your bot to see, hear, and interpret in more human ways. Bot Service leverages the Bot Builder SDK with support for .NET and Node.js. 
 

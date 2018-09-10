@@ -34,3 +34,6 @@ Azure Bot Service speeds up development by providing an integrated environment t
 # Intelligence with Cognitive Services
 Give your bot some super powers. Go beyond a great conversationalist to a bot that can recognize a user in photos, moderate content, make smart recommendations, translate language and more. Cognitive Services enable your bot to see, hear, and interpret in more human ways. Bot Service leverages the Bot Builder SDK with support for .NET and Node.js. 
 
+# Engage your audience, wherever they are
+Your users talk in many places, your bot should too. Azure Bot Service can be integrated across multiple channels to increase interactions and reach more customers using your website or app to email, GroupMe, Facebook Messenger, Kik, Skype, Slack, Microsoft Teams, Telegram, text/SMS, Twilio, Cortana, and Skype for Business.
+

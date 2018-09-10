@@ -26,7 +26,8 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 
 9. After the KB is successfully created, the **Knowledge base** page opens. You can edit the contents of the KB on this page.
 
-10. In the upper right, select Add QnA pair to add a new row in the Editorial section of the KB. Under Question, enter ```Hi```. Under Answer, enter ```Hello!```.
+10. In the upper right, select Add QnA pair to add a new row in the Editorial section of the KB. Under Question, enter ```Hi```. Under Answer, enter ```Hello!...```.
+![4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/4.png)
 
 11. In the upper right, select **Save and train** to save your edits and train the QnA Maker model. Edits aren't kept unless they're saved.
 

@@ -18,6 +18,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 5. In step 3, name your KB **to best reflect your sample FAQ**.
 
 6. To add content to your KB, select three types of data sources. In step 4, under **Populate your KB**, add your sample FAQ link in the URL box.
+![3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/3.png)
 
 7. In step 5, select **Create your KB**.
 

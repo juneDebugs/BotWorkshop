@@ -20,3 +20,9 @@ You inspect details of the test result in the Inspect panel.
 1. With the Test slide-out panel open, select Inspect for more details on that response.
 ![test2](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/test2.png)
 
+2. The Inspection panel appears. The panel includes the top scoring intent as well as any identified entities. The panel shows the result of the selected utterance
+
+## Correct the top scoring answer
+If the top scoring answer is incorrect, select the correct answer from the list and select Save and Train.
+
+

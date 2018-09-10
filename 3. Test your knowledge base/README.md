@@ -18,4 +18,5 @@ To close the Test panel, select the Test button again. While the Test panel is o
 ## Inspect score
 You inspect details of the test result in the Inspect panel.
 1. With the Test slide-out panel open, select Inspect for more details on that response.
+![test2](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/test2.png)
 

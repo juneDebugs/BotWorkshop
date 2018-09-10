@@ -35,6 +35,7 @@ If you don't have an Azure subscription, create a [free account](https://azure.m
 12. In the upper right, select **Test*** to test that the changes you made took effect. Enter ```Hi there``` in the box, and select **Enter**. You should see the answer you created as a response.
 
 13. Select **Inspect** to examine the response in more detail. The test window is used to test your changes to the KB before they're published.
+![6](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/6.png)
 
 14. Select **Test** again to close the Test pop-up.
 

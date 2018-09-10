@@ -30,6 +30,7 @@ The QnA Maker stack consists of the following parts:
 
 # Azure Bot Service
 Azure Bot Service speeds up development by providing an integrated environment that’s purpose-built for bot development with the Microsoft Bot Framework connectors and BotBuilder SDKs. Developers can get started in seconds with out-of-the-box templates for scenarios including basic, form, language understanding, question and answer, and proactive bots.
+![BotService](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot-service-overview.png)
 
 # Intelligence with Cognitive Services
 Give your bot some super powers. Go beyond a great conversationalist to a bot that can recognize a user in photos, moderate content, make smart recommendations, translate language and more. Cognitive Services enable your bot to see, hear, and interpret in more human ways. Bot Service leverages the Bot Builder SDK with support for .NET and Node.js. 

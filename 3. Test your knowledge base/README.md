@@ -24,5 +24,7 @@ You inspect details of the test result in the Inspect panel.
 
 ## Correct the top scoring answer
 If the top scoring answer is incorrect, select the correct answer from the list and select Save and Train.
+![test3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/test3.png)
 
+## Add alternate questions
 

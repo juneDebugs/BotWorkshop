@@ -43,3 +43,7 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 * **Publish** your knowledge base, if not already done so
 ![bot6](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot6.png)
 
+## Test your bot! :robot:
+In the Azure portal, click on ```Test in Web Chat``` to test the bot.
+
+

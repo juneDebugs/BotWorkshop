@@ -39,6 +39,6 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 2. Get your knowledge base ID, host url, and the endpoint key from the settings tab of your knowledge base in [qnamaker.ai](https://qnamaker.ai).
 * Log in to QnA Maker
 * Go to your knowledge base
-* Click on the Settings tab
-* Publish your knowledge base, if not already done so
+* Click on the ```Settings``` tab
+* **Publish** your knowledge base, if not already done so
 

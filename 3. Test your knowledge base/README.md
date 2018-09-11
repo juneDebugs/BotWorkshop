@@ -34,3 +34,4 @@ You can add alternate forms of a question to a given answer. Type the alternate 
 You can add a new answer if any of the existing answers that were matched are incorrect or the answer does not exist in the knowledge base (no good match found in the KB). Enter the new answer to current question in the text box and press enter to add it.
 
 Select ```Save and Train``` to persist this answer. A new question-answer pair has now been added to your knowledge base.
+![test5](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/test5.png)

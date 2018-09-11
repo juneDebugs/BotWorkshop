@@ -18,5 +18,8 @@ The bot responds to questions from the knowledge base you created, via the QnAMa
 * Select the subscription, resource group, App service plan, and location.
 * Select the Question and Answer (Node.js or C#) template for the Bot template field.
 * Select the confirmation checkbox for the legal notice. The terms of the legal notice are below the checkbox.
+![bot3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot3.png)
+
+4.Confirm that the bot service has been deployed. 
 
 

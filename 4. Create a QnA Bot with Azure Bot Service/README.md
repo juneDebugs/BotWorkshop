@@ -25,8 +25,8 @@ The bot responds to questions from the knowledge base you created, via the QnAMa
 * After the notification changes to **Deployment succeeded**, select ```Go to resource``` on that notification.
 
 ## Chat with the Bot
-Selecting Go to resource takes you to the bot's resource blade.
+Selecting ```Go to resource``` takes you to the bot's resource blade.
 
-Once the bot is registered, click Test in Web Chat to open the Web Chat pane. Type "Hi!" in Web Chat.
+Once the bot is registered, click ```Test in Web Chat``` to open the Web Chat pane. Type "Hi!" in Web Chat.
 ![bot4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot4.png)
 

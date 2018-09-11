@@ -7,3 +7,5 @@ Before you build, follow the steps in Create a knowledge base to create a QnA Ma
 The bot responds to questions from the knowledge base you created, via the QnAMakerDialog.
 
 ## Create a QnA Bot
+1. In the Azure portal, select ```Create new resource``` in the menu blade, and then select ```See all```.
+![bot1](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot1.png)

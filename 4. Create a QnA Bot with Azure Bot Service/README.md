@@ -34,7 +34,7 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 
 ## Connect your QnA Maker knowledge base to the bot
 1. Open Application Settings and edit the QnAKnowledgebaseId, QnAAuthKey, and the QnAEndpointHostName fields to contain the values of your QnA Maker knowledge base.
-
+![bot5](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot5.png)
 
 2. Get your knowledge base ID, host url, and the endpoint key from the settings tab of your knowledge base in [qnamaker.ai](https://qnamaker.ai).
 

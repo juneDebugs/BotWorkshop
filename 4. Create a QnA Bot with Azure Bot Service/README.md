@@ -45,5 +45,6 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 
 ## Test your bot! :robot:
 In the Azure portal, click on ```Test in Web Chat``` to test the bot.
+![bot7](
 
 

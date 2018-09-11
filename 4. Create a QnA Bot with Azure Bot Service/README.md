@@ -14,9 +14,9 @@ The bot responds to questions from the knowledge base you created, via the QnAMa
 ![bot2](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot2.png)
 
 3. In the **Bot Service blade**, provide the required information, and select ```Create```. This creates and deploys the bot service with QnAMakerDialog to Azure.
-* Set App name to your bot’s name. The name is used as the subdomain when your bot is deployed to the cloud (for example, mynotesbot.azurewebsites.net).
-* Select the subscription, resource group, App service plan, and location.
-* Select the Question and Answer (Node.js or C#) template for the Bot template field.
+* Set **App name** to your bot’s name. The name is used as the subdomain when your bot is deployed to the cloud (for example, mynotesbot.azurewebsites.net).
+* Select the ```subscription, resource group, App service plan, and location```.
+* Select the ```Question and Answer``` (Node.js or C#) template for the Bot template field.
 * Select the confirmation checkbox for the legal notice. The terms of the legal notice are below the checkbox.
 ![bot3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot3.png)
 

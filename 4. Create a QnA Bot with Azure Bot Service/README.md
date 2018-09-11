@@ -20,6 +20,13 @@ The bot responds to questions from the knowledge base you created, via the QnAMa
 * Select the confirmation checkbox for the legal notice. The terms of the legal notice are below the checkbox.
 ![bot3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot3.png)
 
-4.Confirm that the bot service has been deployed. 
+4. Confirm that the bot service has been deployed. 
+* Select Notifications (the bell icon that is located along the top edge of the Azure portal). The notification will change from Deployment started to Deployment succeeded.
+* After the notification changes to Deployment succeeded, select Go to resource on that notification.
+
+## Chat with the Bot
+Selecting Go to resource takes you to the bot's resource blade.
+
+Once the bot is registered, click Test in Web Chat to open the Web Chat pane. Type "Hi!" in Web Chat.
 
 

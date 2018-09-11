@@ -28,5 +28,5 @@ The bot responds to questions from the knowledge base you created, via the QnAMa
 Selecting Go to resource takes you to the bot's resource blade.
 
 Once the bot is registered, click Test in Web Chat to open the Web Chat pane. Type "Hi!" in Web Chat.
-
+![bot4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot4.png)
 

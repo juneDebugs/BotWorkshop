@@ -1,4 +1,4 @@
-# Bot Workshop
+# :robot: Bot Workshop
 This workshop is designed for developers to Build, Train and Publish a simple question and answer bot based on FAQ URLs, structured documents, product manuals or editorial content.
 
 # What is a bot?

@@ -41,4 +41,5 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 * Go to your knowledge base
 * Click on the ```Settings``` tab
 * **Publish** your knowledge base, if not already done so
+![bot6](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot6.png)
 

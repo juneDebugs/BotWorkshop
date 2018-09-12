@@ -14,3 +14,4 @@ You can view and reset your subscription keys from the Azure portal where you cr
 ![km1](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/km1.png)
 
 2. Go to **Keys**.
+![km2](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/subscription-key.png)

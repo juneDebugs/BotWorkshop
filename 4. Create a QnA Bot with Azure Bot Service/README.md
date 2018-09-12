@@ -2,7 +2,7 @@
 This tutorial walks you through building a QnA bot with Azure Bot service on the Azure portal.
 
 ## Prerequisite
-Before you build, follow the steps in **Create and publish a knowledge base** to create a QnA Maker service with questions and answers.
+Before you build, follow the steps in [Create and publish a knowledge basee](https://github.com/jCho23/BotWorkshop/tree/master/2.%20Create%20and%20Publish%20a%20Knowledge%20Base) to create a QnA Maker service with questions and answers.
 
 The bot responds to questions from the knowledge base you created, via the QnAMakerDialog.
 

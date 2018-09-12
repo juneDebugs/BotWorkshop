@@ -9,3 +9,7 @@ Your QnA Maker service deals with two kinds of keys, **subscription keys** and *
 
 ## Subscription Keys
 You can view and reset your subscription keys from the Azure portal where you created the QnA Maker resource.
+
+1. Go to the QnA Maker resource in the Azure portal.
+
+2. Go to Keys.

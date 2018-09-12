@@ -47,6 +47,6 @@ Notice the bot responds with "Please set QnAKnowledgebaseId and QnASubscriptionK
 In the Azure portal, click on ```Test in Web Chat``` to test the bot.
 ![bot7](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/bot7.png)
 
-:tada: Congrats! Your QnA Bot now answers from your knowledge base.
+:tada: **Congrats! Your QnA Bot now answers from your knowledge base.**
 
 

@@ -23,5 +23,5 @@ Endpoint keys can be managed from the QnA Maker portal.
 
 ![km3](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/endpoint-keys.png)
 
-2. View or reset your keys.
+2. **View or reset** your keys.
 ![km4](https://github.com/jCho23/BotWorkshop/blob/master/Resouces/Images/endpoint-keys1.png)
